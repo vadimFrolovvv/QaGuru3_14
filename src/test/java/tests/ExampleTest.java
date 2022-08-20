@@ -7,6 +7,6 @@ public class ExampleTest {
 
     @Test
     public void exampleTest() {
-        Assertions.assertFalse( 2 > 3);
+        Assertions.assertTrue( 3 > 2);
     }
 }
